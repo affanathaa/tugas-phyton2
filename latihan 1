@@ -27,3 +27,7 @@ hero2 = Hero("Zilong", 120, 20)
 # Memanggil Method
 hero1.info()
 hero2.info()
+
+Hero: Layla | HP: 500 | Power: 15
+Hero: Zilong | HP: 120 | Power: 20
+
